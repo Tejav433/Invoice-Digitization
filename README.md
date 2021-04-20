@@ -1,5 +1,9 @@
 # Invoice-Digitization
 
+    Tech Used:
+        Language   : C#
+        Framework  : ASP.NET
+
     InvoiceDigitization 
         
         - Provides the API's
